@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1>🇵🇭 Hi, I'm Reginald!</h1>
 
-<!--
-**reginaldhigoy/reginaldhigoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+📌 Full-stack learner</br>
+👨🏼‍🎓 Bachelor of Science in Information Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## <h6>⚙️ SKILLS AND TECHNOLOGIES:</h6>
+- **Languages**: HTML, CSS, JavaScript, Sass
+- **Tools**: Git, GitHub, VS Code, Figma
+- **Other**: Responsive Design, CSS Grid, Flexbox
+
+
+## <h6>⚙️ CURRENTLY LEARNING UDEMY COURSES:</h6>
+- The Ultimate React Course 2024: React, Next.js, Redux & More!
+- Tailwind
+- Node.js, Express, MongoDB & More: The Complete Bootcamp 
+- UnderStanding TypeScript
+
+
+## <h6>⚙️ COMPLETED UDEMY COURSES:</h6>
+- The Complete JavaScript Course 2024: From Zero to Expert!<br>
+- Advanced CSS and Sass: Flexbox, Grid, Animations and More!<br>
+
+#### Let's Connect:
+- [Email](reginaldhigoy01@gmail.com)
+
+##
+#### Thank you for visiting my profile! 🚀
