@@ -23,7 +23,7 @@
 - Advanced CSS and Sass: Flexbox, Grid, Animations and More!<br>
 
 #### Let's Connect:
-- [Email](reginaldhigoy01@gmail.com)
+- Email: [reginaldhigoy01@gmail.com](mailto:reginaldhigoy01@gmail.com)
 
 ##
 #### Thank you for visiting my profile! 🚀
