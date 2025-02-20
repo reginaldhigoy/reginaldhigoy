@@ -1,4 +1,4 @@
-<h1>🇵🇭 Hi, I'm Reginald!</h1>
+<h1> Hi, I'm Reginald!</h1>
 
 
 📌 Full-stack learner</br>
@@ -16,7 +16,7 @@
 - Tailwind
 - Node.js, Express, MongoDB & More: The Complete Bootcamp 
 - UnderStanding TypeScript
-
+- Shopify Theme Development: Online Store 2.0 + TailwindCSS
 
 ## <h6>⚙️ COMPLETED UDEMY COURSES:</h6>
 - The Complete JavaScript Course 2024: From Zero to Expert!<br>
