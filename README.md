@@ -6,17 +6,17 @@
 
 
 ## <h6>⚙️ SKILLS AND TECHNOLOGIES:</h6>
-- **Languages**: HTML, CSS, JavaScript, Sass
-- **Tools**: Git, GitHub, VS Code, Figma
+- **Languages**: HTML, CSS, JavaScript, SCSS/SASS, Reactjs
+- **Tools**: Git, GitHub, VS Code, Canva, Git, Github, Netlify, NPM
 - **Other**: Responsive Design, CSS Grid, Flexbox
 
 
 ## <h6>⚙️ CURRENTLY LEARNING UDEMY COURSES:</h6>
+- Shopify Theme Development: Online Store 2.0 + TailwindCSS
 - The Ultimate React Course 2024: React, Next.js, Redux & More!
-- Tailwind
 - Node.js, Express, MongoDB & More: The Complete Bootcamp 
 - UnderStanding TypeScript
-- Shopify Theme Development: Online Store 2.0 + TailwindCSS
+
 
 ## <h6>⚙️ COMPLETED UDEMY COURSES:</h6>
 - The Complete JavaScript Course 2024: From Zero to Expert!<br>
