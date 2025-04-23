@@ -13,6 +13,7 @@
 
 ## <h6>⚙️ CURRENTLY LEARNING UDEMY COURSES:</h6>
 - Shopify Theme Development: Online Store 2.0 + TailwindCSS
+- Vue- The Complete Guide (Incl. Router and Composition API)
 - The Ultimate React Course 2024: React, Next.js, Redux & More!
 - Node.js, Express, MongoDB & More: The Complete Bootcamp 
 - UnderStanding TypeScript
