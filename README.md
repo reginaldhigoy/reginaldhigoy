@@ -6,25 +6,23 @@
 
 
 ## <h6>⚙️ SKILLS AND TECHNOLOGIES:</h6>
-- **Languages**: HTML, CSS, JavaScript, SCSS/SASS, Reactjs
+- **Languages**: HTML, CSS, JavaScript, SCSS/SASS, Tailwind, Vuejs, Pinia, Composition API, Vue router
 - **Tools**: Git, GitHub, VS Code, Canva, Git, Github, Netlify, NPM
 - **Other**: Responsive Design, CSS Grid, Flexbox
 
 
-## <h6>⚙️ CURRENTLY LEARNING UDEMY COURSES:</h6>
+## <h6>⚙️ UDEMY COURSES:</h6>
 - Shopify Theme Development: Online Store 2.0 + TailwindCSS
 - Vue- The Complete Guide (Incl. Router and Composition API)
 - The Ultimate React Course 2024: React, Next.js, Redux & More!
-- Node.js, Express, MongoDB & More: The Complete Bootcamp 
+- Node.js, Express, MongoDB & More: The Complete Bootcamp
+- The Complete JavaScript Course 2024: From Zero to Expert!<br>
+- Advanced CSS and Sass: Flexbox, Grid, Animations and More!<br>
 - UnderStanding TypeScript
 
 
-## <h6>⚙️ COMPLETED UDEMY COURSES:</h6>
-- The Complete JavaScript Course 2024: From Zero to Expert!<br>
-- Advanced CSS and Sass: Flexbox, Grid, Animations and More!<br>
-
 #### Let's Connect:
-- Email: [reginaldhigoy01@gmail.com](mailto:reginaldhigoy01@gmail.com)
+- Email: [reginaldhigoy.dev@gmail.com](mailto:reginaldhigoy.dev@gmail.com)
 
 ##
 #### Thank you for visiting my profile! 🚀
