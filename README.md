@@ -1,28 +1,66 @@
-<h1> Hi, I'm Reginald!</h1>
+# Hi, I'm Reginald 👋
 
+📊 Aspiring Data Analyst  
+🎓 Bachelor of Science in Information Systems  
+📍 Philippines  
 
-📌 Full-stack learner</br>
-👨🏼‍🎓 Bachelor of Science in Information Systems
+I am currently transitioning into **Data Analytics**, focusing on turning data into actionable insights using SQL, data visualization, and business analysis.
 
+My goal is to build real-world data projects that solve business problems and support better decision-making.
 
-## <h6>⚙️ SKILLS AND TECHNOLOGIES:</h6>
-- **Languages**: HTML, CSS, JavaScript, SCSS/SASS, Tailwind, Vuejs, Pinia, Composition API, Vue router
-- **Tools**: Git, GitHub, VS Code, Canva, Git, Github, Netlify, NPM
-- **Other**: Responsive Design, CSS Grid, Flexbox
+---
 
+## 📊 Data Analytics Skills
 
-## <h6>⚙️ UDEMY COURSES:</h6>
-- Shopify Theme Development: Online Store 2.0 + TailwindCSS
-- Vue- The Complete Guide (Incl. Router and Composition API)
-- The Ultimate React Course 2024: React, Next.js, Redux & More!
-- Node.js, Express, MongoDB & More: The Complete Bootcamp
-- The Complete JavaScript Course 2024: From Zero to Expert!<br>
-- Advanced CSS and Sass: Flexbox, Grid, Animations and More!<br>
-- UnderStanding TypeScript
+**Languages & Tools**
+- SQL
+- Power BI
+- Excel
+- Git & GitHub
+- Python
 
+**Data Analysis Skills**
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Business Insights & Reporting
+- Marketing & Conversion Analysis
+- Dashboard Creation
 
-#### Let's Connect:
-- Email: [reginaldhigoy.dev@gmail.com](mailto:reginaldhigoy.dev@gmail.com)
+---
 
-##
-#### Thank you for visiting my profile! 🚀
+## 📚 Current Learning
+
+I am currently learning and practicing:
+
+- SQL for Data Analysis
+- Power BI Dashboard Development
+- Data Visualization
+- Statistics for Data Analysts
+
+---
+
+## 📁 Data Projects
+
+Here are some of my featured projects:
+
+🔹 **Website Conversion Analysis (SQL Case Study)**  
+Analyzed website traffic and conversion funnel to identify drop-off points and opportunities to improve ecommerce performance.
+
+Project Link:  
+https://github.com/reginaldhigoy/sql-ecommerce-analysis
+
+More projects coming soon.
+
+---
+
+## 📫 Let's Connect
+
+Email:  
+reginaldhigoy.dev@gmail.com
+
+LinkedIn:  
+[(Add your LinkedIn profile here)](https://www.linkedin.com/in/reginaldhigoy/)
+
+---
+
+⭐ Thank you for visiting my GitHub profile!
