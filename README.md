@@ -59,7 +59,7 @@ Email:
 reginaldhigoy.dev@gmail.com
 
 LinkedIn:  
-[(Add your LinkedIn profile here)](https://www.linkedin.com/in/reginaldhigoy/)
+https://www.linkedin.com/in/reginaldhigoy/
 
 ---
 
