@@ -1,66 +1,79 @@
 # Hi, I'm Reginald 👋
 
-📊 Aspiring Data Analyst  
+**📊 Aspiring Data Analyst | BI Enthusiast | SQL & Power BI**
+
 🎓 Bachelor of Science in Information Systems  
-📍 Philippines  
+📍 Philippines
 
-I am currently transitioning into **Data Analytics**, focusing on turning data into actionable insights using SQL, data visualization, and business analysis.
-
-My goal is to build real-world data projects that solve business problems and support better decision-making.
+I am transitioning into Data Analytics, turning data into actionable insights using SQL, data visualization, and business analysis. My goal is to build real-world projects that solve business problems and support better decision-making.
 
 ---
 
 ## 📊 Data Analytics Skills
 
 **Languages & Tools**
-- SQL
+- SQL (MySQL, PostgreSQL)
 - Power BI
 - Excel
 - Git & GitHub
-- Python
+- Python (Pandas, NumPy)
 
 **Data Analysis Skills**
-- Data Cleaning
+- Data Cleaning & Validation
 - Exploratory Data Analysis (EDA)
-- Business Insights & Reporting
-- Marketing & Conversion Analysis
+- KPI Tracking & Reporting
+- Business Insights & Storytelling
 - Dashboard Creation
 
 ---
 
 ## 📚 Current Learning
 
-I am currently learning and practicing:
-
-- SQL for Data Analysis
+- Advanced SQL for Data Analysis
 - Power BI Dashboard Development
-- Data Visualization
+- Data Visualization Best Practices
 - Statistics for Data Analysts
 
 ---
 
-## 📁 Data Projects
+## 📁 Featured Projects
 
-Here are some of my featured projects:
+### 🔹 Adventure Works: Sales & Returns Intelligence Dashboard
 
-🔹 **Website Conversion Analysis (SQL Case Study)**  
+**Power BI | DAX | Data Storytelling**
+
+Built a 5-page Power BI dashboard analyzing **$9.19M in sales** and **3.30% return rates** for executive leadership.
+
+**Key insights:**
+- Bikes drive **92% of revenue ($8.47M)** with only 171 returns
+- Accessories cause **639 returns** (4x more than Bikes) but only $0.51M revenue
+- France (4.10%) and Canada (3.51%) have highest return rates
+- Germany performs best: 2.91% return rate with $1.02M revenue
+
+**Delivered recommendations** projected to save $100K annually by replicating Germany's return policy.
+
+📎 [Project Repository](https://github.com/reginaldhigoy/AdventureWorks-Sales-Returns-Dashboard)
+
+---
+
+### 🔹 Website Conversion Analysis (SQL Case Study)
+
+**SQL | EDA | Funnel Analysis**
+
 Analyzed website traffic and conversion funnel to identify drop-off points and opportunities to improve ecommerce performance.
 
-Project Link:  
-https://github.com/reginaldhigoy/sql-ecommerce-analysis
+📎 [Project Repository](https://github.com/reginaldhigoy/sql-ecommerce-analysis)
 
-More projects coming soon.
+---
+
+*More projects coming soon.*
 
 ---
 
 ## 📫 Let's Connect
 
-Email:  
-reginaldhigoy.dev@gmail.com
+📧 reginaldhigoy.dev@gmail.com
 
-LinkedIn:  
-https://www.linkedin.com/in/reginaldhigoy/
-
----
+🔗 [LinkedIn](https://www.linkedin.com/in/reginaldhigoy/)
 
 ⭐ Thank you for visiting my GitHub profile!
