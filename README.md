@@ -1,11 +1,20 @@
 # Hi, I'm Reginald 👋
 
-**📊 Aspiring Data Analyst | BI Enthusiast | SQL & Power BI**
+**📊 Data Analyst | BI Enthusiast | SQL & Power BI**
 
 🎓 Bachelor of Science in Information Systems  
 📍 Philippines
 
-I am transitioning into Data Analytics, turning data into actionable insights using SQL, data visualization, and business analysis. My goal is to build real-world projects that solve business problems and support better decision-making.
+I turn data into actionable insights using SQL, data visualization, and business analysis. My goal is to build real-world projects that solve business problems and support better decision-making.
+
+---
+
+## 📜 Certifications
+
+| Certification | Issuer | ID |
+|---------------|--------|-----|
+| Data Analyst Associate | DataCamp (2026) | `DAA0016168769359` |
+| SQL Associate | DataCamp (2026) | `SQA0015969703605` |
 
 ---
 
@@ -27,15 +36,6 @@ I am transitioning into Data Analytics, turning data into actionable insights us
 
 ---
 
-## 📚 Current Learning
-
-- Advanced SQL for Data Analysis
-- Power BI Dashboard Development
-- Data Visualization Best Practices
-- Statistics for Data Analysts
-
----
-
 ## 📁 Featured Projects
 
 ### 🔹 Adventure Works: Sales & Returns Intelligence Dashboard
@@ -49,8 +49,6 @@ Built a 5-page Power BI dashboard analyzing **$9.19M in sales** and **3.30% retu
 - Accessories cause **639 returns** (4x more than Bikes) but only $0.51M revenue
 - France (4.10%) and Canada (3.51%) have highest return rates
 - Germany performs best: 2.91% return rate with $1.02M revenue
-
-**Delivered recommendations** projected to save $100K annually by replicating Germany's return policy.
 
 📎 [Project Repository](https://github.com/reginaldhigoy/AdventureWorks-Sales-Returns-Dashboard)
 
