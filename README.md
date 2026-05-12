@@ -1,11 +1,12 @@
 # Hi, I'm Reginald 👋
 
-**📊 Data Analyst | BI Enthusiast | SQL & Power BI**
+**📊 Data Analyst | BI Enthusiast | SQL & Power BI | Excel Power Pivot**
 
 🎓 Bachelor of Science in Information Systems  
-📍 Philippines
+📍 Philippines  
+🔄 Former Operations Analyst → Data Analytics
 
-I turn data into actionable insights using SQL, data visualization, and business analysis. My goal is to build real-world projects that solve business problems and support better decision-making.
+I turn data into actionable insights using SQL, data visualization, Excel data modeling, and business analysis. My goal is to build real-world projects that solve business problems and support better decision-making.
 
 ---
 
@@ -23,13 +24,14 @@ I turn data into actionable insights using SQL, data visualization, and business
 **Languages & Tools**
 - SQL (MySQL, PostgreSQL)
 - Power BI
-- Excel
+- Excel (Power Pivot, Power Query, Data Model)
 - Git & GitHub
 - Python (Pandas, NumPy)
 
 **Data Analysis Skills**
 - Data Cleaning & Validation
 - Exploratory Data Analysis (EDA)
+- Data Modeling (Star Schema)
 - KPI Tracking & Reporting
 - Business Insights & Storytelling
 - Dashboard Creation
@@ -51,6 +53,23 @@ Built a 5-page Power BI dashboard analyzing **$9.19M in sales** and **3.30% retu
 - Germany performs best: 2.91% return rate with $1.02M revenue
 
 📎 [Project Repository](https://github.com/reginaldhigoy/AdventureWorks-Sales-Returns-Dashboard)
+
+---
+
+### 🔹 Coffee Shop Sales Data Modeling
+
+**Excel | Power Pivot | Power Query | Star Schema**
+
+Transformed a messy flat file into a scalable star schema using Excel's Power Pivot.
+
+**What I did:**
+- Separated flat file into fact and dimension tables
+- Removed duplicates to ensure data integrity
+- Loaded into Data Model (handles 1M+ rows, no sheet limit)
+- Created relationships with primary/foreign keys
+- Built dashboard using Power Pivot measures – no VLOOKUP needed
+
+📎 [Project Repository](https://github.com/reginaldhigoy/Excel-DataModeling-CoffeeShop)
 
 ---
 
