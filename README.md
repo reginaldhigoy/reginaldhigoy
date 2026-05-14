@@ -4,7 +4,7 @@
 
 🎓 Bachelor of Science in Information Systems  
 📍 Philippines  
-🔄 Former Operations Analyst → Data Analytics
+🔄 Former Operations Analyst a career shifter to Data Analytics
 
 I turn data into actionable insights using SQL, data visualization, Excel data modeling, and business analysis. My goal is to build real-world projects that solve business problems and support better decision-making.
 
