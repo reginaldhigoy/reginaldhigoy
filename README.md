@@ -1,6 +1,6 @@
 # Hi, I'm Reginald 👋
 
-📊 Data Analyst | BI Enthusift | SQL & Power BI | Excel Power Pivot
+📊 Data Analyst | Logistics & Inventory Analytics | SQL | Power BI | Excel Power Pivot
 
 🎓 Bachelor of Science in Information Systems  
 📍 Philippines  
@@ -14,9 +14,10 @@ I turn data into actionable insights using SQL, data visualization, Excel data m
 
 | Course | Provider | Focus |
 |--------|----------|-------|
+| Inventory: Track Stock, Trigger Orders | Coursera | Physical counts, discrepancies, reorder points, receiving, stock transfers |
 | Supply Chain Management and Analytics | Unilever (Coursera) | Demand planning, forecasting, logistics, supply chain finance, sustainability |
 
-🎯 **Goal:** Apply data analytics to logistics and supply chain operations. Building towards a Supply Chain Analyst role.
+🎯 **Goal:** Apply data analytics to logistics, inventory, and supply chain operations. Building towards a Supply Chain Analyst role.
 
 ---
 
@@ -54,6 +55,12 @@ I turn data into actionable insights using SQL, data visualization, Excel data m
 - GL Coding & Vendor Management
 - Payment Application & Aging Reports
 - AP/AR Workflow Documentation
+
+**Inventory & Logistics**
+- Physical counts and cycle counting
+- Receiving and stock transfers
+- Reorder point calculation
+- Variance analysis and discrepancy documentation
 
 ---
 
