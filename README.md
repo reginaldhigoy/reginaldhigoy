@@ -1,6 +1,6 @@
 # Hi, I'm Reginald 👋
 
-📊 Data Analyst | Inventory & Supply Chain Analytics | SQL | Power BI | Excel Power Pivot
+📊 Data Analyst | SQL | Power BI | Excel Power Pivot
 
 🎓 Bachelor of Science in Information Systems
 📍 Philippines
