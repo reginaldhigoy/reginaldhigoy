@@ -1,6 +1,6 @@
 # Hi, I'm Reginald 👋
 
-📊 Data Analyst | Logistics & Inventory Analytics | SQL | Power BI | Excel Power Pivot
+📊 Data Analyst | Inventory & Supply Chain Analytics | SQL | Power BI | Excel Power Pivot
 
 🎓 Bachelor of Science in Information Systems
 📍 Philippines
@@ -17,17 +17,18 @@ I turn data into actionable insights using SQL, data visualization, Excel data m
 | Inventory: Track Stock, Trigger Orders | Coursera | Physical counts, discrepancies, reorder points, receiving, stock transfers              |
 | Bookkeeping NC III *(In Progress)*     | TESDA    | Accounting principles, AP/AR, payroll, financial statements, and bookkeeping procedures |
 
-🎯 **Goal:** Apply data analytics to logistics, inventory, and business operations while building towards a Supply Chain Analyst role.
+🎯 **Goal:** Apply data analytics to inventory, logistics, and business operations while building towards a Supply Chain Analyst role.
 
 ---
 
 ## 📜 Certifications & Professional Development
 
-| Type          | Credential                                          | Issuer          | ID                                        |
-| ------------- | --------------------------------------------------- | --------------- | ----------------------------------------- |
-| Certification | Data Analyst Associate                              | DataCamp (2026) | DAA0016168769359                          |
-| Certification | SQL Associate                                       | DataCamp (2026) | SQA0015969703605                          |
-| Coursework    | Accounts Payable and Receivable Workflow Management | Coursera (2026) | Coursework completed; certificate pending |
+| Type          | Credential                                          | Issuer                   | ID                                        |
+| ------------- | --------------------------------------------------- | ------------------------ | ----------------------------------------- |
+| Certification | Data Analyst Associate                              | DataCamp (2026)          | DAA0016168769359                          |
+| Certification | SQL Associate                                       | DataCamp (2026)          | SQA0015969703605                          |
+| Certificate   | Data Analytics Essentials                           | Cisco Networking Academy | Completed                                 |
+| Coursework    | Accounts Payable and Receivable Workflow Management | Coursera (2026)          | Coursework completed; certificate pending |
 
 📘 **Coursework covers:** Invoice processing, three-way match (PO, Receiving Report, Invoice), GL coding, payment application, aging reports, and AP/AR workflow documentation.
 
@@ -35,31 +36,31 @@ I turn data into actionable insights using SQL, data visualization, Excel data m
 
 ## 📊 Data Analytics Skills
 
-**Languages & Tools**
+### Languages & Tools
 
 * SQL (MySQL, PostgreSQL)
 * Power BI
 * Excel (Power Pivot, Power Query, Data Model)
-* Git & GitHub
 * Python (Pandas, NumPy)
+* Git & GitHub
 
-**Data Analysis Skills**
+### Data Analysis Skills
 
 * Data Cleaning & Validation
 * Exploratory Data Analysis (EDA)
 * Data Modeling (Star Schema)
 * KPI Tracking & Reporting
+* Dashboard Development
 * Business Insights & Storytelling
-* Dashboard Creation
 
-**Business & Accounting Operations**
+### Business & Accounting Operations
 
 * Invoice Processing & Three-Way Match
 * GL Coding & Vendor Management
 * Payment Application & Aging Reports
 * AP/AR Workflow Documentation
 
-**Inventory & Logistics**
+### Inventory & Logistics
 
 * Physical Counts and Cycle Counting
 * Receiving and Stock Transfers
@@ -74,16 +75,16 @@ I turn data into actionable insights using SQL, data visualization, Excel data m
 
 *Power BI | DAX | Data Storytelling*
 
-Built a 5-page Power BI dashboard analyzing $9.19M in sales and 3.30% return rates for executive leadership.
+Built a 5-page Power BI dashboard analyzing **$9.19M in sales** and **3.30% return rates** for executive leadership.
 
 **Key insights:**
 
-* Bikes drive 92% of revenue ($8.47M) with only 171 returns
-* Accessories cause 639 returns (4x more than Bikes) but only $0.51M revenue
-* France (4.10%) and Canada (3.51%) have the highest return rates
-* Germany performs best: 2.91% return rate with $1.02M revenue
+* Bikes drive 92% of revenue ($8.47M) with only 171 returns.
+* Accessories generated 639 returns (4× more than Bikes) but only $0.51M in revenue.
+* France (4.10%) and Canada (3.51%) have the highest return rates.
+* Germany achieved the best performance with a 2.91% return rate and $1.02M revenue.
 
-📌 **Recommendation:** Replicate Germany's return policy to reduce returns and improve profitability.
+📌 **Recommendation:** Replicate Germany's return management practices to reduce returns and improve profitability.
 
 📎 [Project Repository](https://github.com/reginaldhigoy/AdventureWorks-Sales-Returns-Dashboard)
 
@@ -93,15 +94,15 @@ Built a 5-page Power BI dashboard analyzing $9.19M in sales and 3.30% return rat
 
 *Excel | Power Pivot | Power Query | Star Schema*
 
-Transformed a messy flat file into a scalable star schema using Excel's Power Pivot.
+Transformed a messy flat file into a scalable star schema using Excel's Power Pivot and Data Model.
 
 **What I did:**
 
-* Separated flat file into fact and dimension tables (star schema design)
-* Removed duplicates to ensure data integrity
-* Loaded into Excel's Data Model — enabling analysis of 1M+ rows without worksheet limits
-* Created primary and foreign key relationships for scalable analysis
-* Built dashboards using Power Pivot measures without relying on VLOOKUP
+* Converted a flat file into fact and dimension tables using star schema design.
+* Removed duplicate records to improve data integrity.
+* Loaded data into Excel's Data Model to support large-scale analysis.
+* Created primary and foreign key relationships for scalable reporting.
+* Built dashboards using Power Pivot measures without relying on VLOOKUP.
 
 📎 [Project Repository](https://github.com/reginaldhigoy/Excel-DataModeling-CoffeeShop)
 
@@ -111,14 +112,14 @@ Transformed a messy flat file into a scalable star schema using Excel's Power Pi
 
 *SQL | EDA | Funnel Analysis*
 
-Analyzed website traffic and the conversion funnel to identify drop-off points and opportunities to improve e-commerce performance.
+Analyzed website traffic and customer conversion funnels to identify drop-off points and optimization opportunities.
 
 **Key insights:**
 
-* Largest drop-off occurs between Product Page → Cart (only 36% proceed)
-* Desktop conversion: 8.50% vs Mobile: 3.09%, highlighting mobile checkout friction
-* Direct traffic has the highest conversion rate, indicating strong purchase intent
-* "The Original Mr. Fuzzy" generates $1.2M in revenue but creates product dependency risk
+* The largest drop-off occurred between Product Page → Cart, with only 36% progressing.
+* Desktop conversion rate reached 8.50% compared to 3.09% for mobile users.
+* Direct traffic delivered the highest conversion rate, indicating stronger purchase intent.
+* "The Original Mr. Fuzzy" generated $1.2M in revenue but introduced product dependency risk.
 
 📎 [Project Repository](https://github.com/reginaldhigoy/Website-Conversion-Analysis)
 
@@ -130,7 +131,7 @@ Analyzed website traffic and the conversion funnel to identify drop-off points a
 
 ## 📫 Let's Connect
 
-📧 [reginaldhigoy.dev@gmail.com](mailto:reginaldhigoy.dev@gmail.com)
+📧 **[reginaldhigoy.dev@gmail.com](mailto:reginaldhigoy.dev@gmail.com)**
 
 🔗 [LinkedIn](https://www.linkedin.com/in/reginaldhigoy/)
 
