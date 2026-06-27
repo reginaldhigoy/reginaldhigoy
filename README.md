@@ -23,14 +23,39 @@ I turn data into actionable insights using SQL, data visualization, Excel data m
 
 ## 📜 Certifications & Professional Development
 
-| Type          | Credential                                          | Issuer                   | ID                                        |
-| ------------- | --------------------------------------------------- | ------------------------ | ----------------------------------------- |
-| Certification | Data Analyst Associate                              | DataCamp (2026)          | DAA0016168769359                          |
-| Certification | SQL Associate                                       | DataCamp (2026)          | SQA0015969703605                          |
-| Certificate   | Data Analytics Essentials                           | Cisco Networking Academy | Completed                                 |
-| Coursework    | Accounts Payable and Receivable Workflow Management | Coursera (2026)          | Coursework completed; certificate pending |
+| Type          | Credential                                          | Issuer                   |
+| ------------- | --------------------------------------------------- | ------------------------ |
+| Certification | Data Analyst Associate                              | DataCamp                 |
+| Certification | SQL Associate                                       | DataCamp                 |
+| Certification | Data Analytics Essentials                           | Cisco Networking Academy |
+| Coursework    | Accounts Payable and Receivable Workflow Management | Coursera                 |
+| Training      | Bookkeeping NC III *(In Progress)*                  | TESDA                    |
 
 📘 **Coursework covers:** Invoice processing, three-way match (PO, Receiving Report, Invoice), GL coding, payment application, aging reports, and AP/AR workflow documentation.
+
+### 🏆 Certificate Links
+
+📎 [Data Analyst Associate Certificate](./Certifications%20and%20Completion%20Images/Associate%20Data%20Analyst%20Certified.JPG)
+
+📎 [SQL Associate Certificate](./Certifications%20and%20Completion%20Images/SQL%20Associate%20Certified.JPG)
+
+📎 [Cisco Data Analytics Essentials Certificate](./Certifications%20and%20Completion%20Images/Data%20Analytics%20Essentials%20Cisco%20Networking%20Academy.JPG)
+
+📎 [Data Literacy Foundations Certificate](./Certifications%20and%20Completion%20Images/Data%20Literacy%20Foundations.JPG)
+
+📎 [Excel Power Query, Power Pivot & DAX Certificate](./Certifications%20and%20Completion%20Images/Excel%20Power%20Query,%20Power%20Pivot%20%26%20DAX.JPG)
+
+📎 [Introduction to Power BI Certificate](./Certifications%20and%20Completion%20Images/Intro%20to%20Power%20BI.JPG)
+
+📎 [Python for Data Analysts Certificate](./Certifications%20and%20Completion%20Images/Python%20for%20Data%20Analysts.JPG)
+
+📎 [Introduction to Bookkeeping Certificate](./Certifications%20and%20Completion%20Images/Introduction%20to%20Bookkeeping.JPG)
+
+📎 [Journalizing Transactions Certificate](./Certifications%20and%20Completion%20Images/Journalizing%20Transactions.JPG)
+
+📎 [Supply Chain Basics for Everyone Certificate](./Certifications%20and%20Completion%20Images/Supply%20Chain%20Basics%20for%20Everyone.JPG)
+
+📎 [Careers in Supply Chain and Operations Certificate](./Certifications%20and%20Completion%20Images/Careers%20in%20Supply%20Chain%20and%20Operations.JPG)
 
 ---
 
@@ -117,7 +142,7 @@ Analyzed website traffic and customer conversion funnels to identify drop-off po
 **Key insights:**
 
 * The largest drop-off occurred between Product Page → Cart, with only 36% progressing.
-* Desktop conversion rate reached 8.50% compared to 3.09% for mobile users.
+* Desktop conversion reached 8.50% compared to 3.09% for mobile users.
 * Direct traffic delivered the highest conversion rate, indicating stronger purchase intent.
 * "The Original Mr. Fuzzy" generated $1.2M in revenue but introduced product dependency risk.
 
@@ -131,7 +156,7 @@ Analyzed website traffic and customer conversion funnels to identify drop-off po
 
 ## 📫 Let's Connect
 
-📧 **[reginaldhigoy.dev@gmail.com](mailto:reginaldhigoy.dev@gmail.com)**
+📧 [reginaldhigoy.dev@gmail.com](mailto:reginaldhigoy.dev@gmail.com)
 
 🔗 [LinkedIn](https://www.linkedin.com/in/reginaldhigoy/)
 
